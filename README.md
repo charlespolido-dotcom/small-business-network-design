@@ -37,16 +37,16 @@ Practical reference material for planning a reliable small-business network.
           PCs/Printers Wi-Fi  Cameras
 ```
 
-See [`diagrams/network-topology.md`](diagrams/network-topology.md) for the design notes.
+See [`network-topology.md`](network-topology.md) for the design notes.
 
 ## Documentation
 
-- [Network overview](docs/network-overview.md)
-- [IP addressing](docs/ip-addressing.md)
-- [VLAN design](docs/vlan-design.md)
-- [Wi-Fi design](docs/wifi-design.md)
-- [CCTV network](docs/cctv-network.md)
-- [Troubleshooting](docs/troubleshooting.md)
+- [Network overview](network-overview.md)
+- [IP addressing](ip-addressing.md)
+- [VLAN design](vlan-design.md)
+- [Wi-Fi design](wifi-design.md)
+- [CCTV network](cctv-network.md)
+- [Troubleshooting](troubleshooting.md)
 
 ## Design principles
 
